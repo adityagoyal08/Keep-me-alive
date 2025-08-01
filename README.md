@@ -1,8 +1,5 @@
 # Keep-Alive Script (PowerShell)
 
-
-# Keep-Alive Script (PowerShell)
-
 This PowerShell script is designed to prevent your Windows system from going idle, locking, or triggering the screensaver by simulating periodic keyboard activity using the **Scroll Lock** key.
 
 ## 📋 Description
