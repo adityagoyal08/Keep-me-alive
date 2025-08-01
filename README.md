@@ -1,4 +1,4 @@
-### 📝 Updated `README.md` with Screenshot Section
+# Keep-Alive Script (PowerShell)
 
 ````markdown
 # Keep-Alive Script (PowerShell)
