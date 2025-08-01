@@ -1,6 +1,4 @@
-Here's a simple `README.md` file for the PowerShell "keep-alive" script that toggles Scroll Lock to prevent system idle:
-
----
+### 📝 Updated `README.md` with Screenshot Section
 
 ````markdown
 # Keep-Alive Script (PowerShell)
@@ -41,10 +39,18 @@ while ($true)
 }
 ````
 
+## 📸 Screenshots
+
+### ✅ PowerShell Commands
+
+<img width="709" height="106" alt="s1" src="https://github.com/user-attachments/assets/90631c4d-2f74-4492-a12f-fdf035975e5b" />
+
+<img width="351" height="154" alt="s2" src="https://github.com/user-attachments/assets/a2671807-171b-44a4-bb9e-5626565dcd95" />
+
 ## 🛠 Requirements
 
 * Windows OS
-* PowerShell (default on most Windows systems)
+* PowerShell
 
 ## 🚀 How to Run
 
@@ -69,5 +75,7 @@ This project is open source and free to use under the MIT License.
 
 ---
 
-Let me know if you'd like to include author information, logging, or additional features in the script or README.
+Once you've taken the screenshots and placed them in the `screenshots/` folder, GitHub will automatically render them when you view the README in your repo.
+
+Let me know if you want help creating the images or adding more!
 ```
